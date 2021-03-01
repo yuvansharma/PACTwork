@@ -1,2 +1,2 @@
 # PACTwork
-My work on Programmatic and Algorithmic Thinking course
+My work on Program in Algorithmic and Combinatorial Thinking course 
